@@ -86,15 +86,15 @@ namespace russian // language
 		// ShowPageHead
 		{"Main page", "Главная"},
 		{"Router commands", "Команды роутера"},
-		{"Local destinations", "Локальные назнач."},
+		{"Local destinations", "Lokaal plekke."},
 		{"LeaseSets", "Лизсеты"},
-		{"Tunnels", "Toneels"},
-		{"Transit tunnels", "Транзит. туннели"},
+		{"Tunnels", "Tonnels"},
+		{"Transit tunnels", "Транзит. tonnels"},
 		{"Transports", "Транспорты"},
-		{"I2P tunnels", "I2P туннели"},
+		{"I2P tunnels", "I2P tonnels"},
 		{"SAM sessions", "SAM сессии"},
 		// Network Status
-		{"OK", "OK"},
+		{"OK", "Poes mooi"},
 		{"Testing", "Besig om te toets"},
 		{"Firewalled", "Файрвол"},
 		{"Unknown", "Неизвестно"},
@@ -126,8 +126,8 @@ namespace russian // language
 		{"Routers", "Роутеры"},
 		{"Floodfills", "Флудфилы"},
 		{"LeaseSets", "Лизсеты"},
-		{"Client Tunnels", "Клиентские туннели"},
-		{"Transit Tunnels", "Транзитные туннели"},
+		{"Client Tunnels", "Klient tonnels"},
+		{"Transit Tunnels", "Транзитные tonnels"},
 		{"Services", "Сервисы"},
 		// ShowLocalDestinations
 		{"Local Destinations", "Локальные назначения"},
@@ -157,15 +157,15 @@ namespace russian // language
 		{"Streams", "Стримы"},
 		{"Close stream", "Закрыть стрим"},
 		// ShowI2CPLocalDestination
-		{"I2CP session not found", "I2CP сессия не найдена"},
-		{"I2CP is not enabled", "I2CP не включен"},
+		{"I2CP session not found", "I2CP session kon nie gevind word"},
+		{"I2CP is not enabled", "I2CP is nie ge-enabled nie"},
 		// ShowLeasesSets
-		{"Invalid", "Некорректный"},
-		{"Store type", "Тип хранилища"},
+		{"Invalid", "Sleg"},
+		{"Store type", "Тип tiep"},
 		{"Expires", "Истекает"},
 		{"Non Expired Leases", "Не истекшие Lease-ы"},
 		{"Gateway", "Шлюз"},
-		{"TunnelID", "ID туннеля"},
+		{"TunnelID", "tonnel ID"},
 		{"EndDate", "Заканчивается"},
 		{"not floodfill", "не флудфил"},
 		// ShowTunnels
@@ -181,16 +181,16 @@ namespace russian // language
 			"<b>Примечание:</b> любое действие произведенное здесь не является постоянным и не изменяет ваши конфигурационные файлы."},
 		{"Logging level", "Уровень логирования"},
 		{"Transit tunnels limit", "Лимит транзитных туннелей"},
-		{"Change", "Изменить"},
+		{"Change", "Verander"},
 		// ShowTransitTunnels
-		{"no transit tunnels currently built", "нет построенных транзитных туннелей"},
+		{"no transit tunnels currently built", "geen transit tonnels is gemaak in hierdie oomblik"},
 		// ShowSAMSessions/ShowSAMSession
 		{"SAM disabled", "SAM выключен"},
 		{"SAM session not found", "SAM сессия не найдена"},
 		{"no sessions currently running", "Geen sessions loop nou"},
 		{"SAM Session", "SAM сессия"},
 		// ShowI2PTunnels
-		{"Server Tunnels", "Серверные туннели"},
+		{"Server Tunnels", "Серверные tonnels"},
 		{"Client Forwards", "Клиентские перенаправления"},
 		{"Server Forwards", "Серверные перенаправления"},
 		// HandlePage
@@ -217,8 +217,8 @@ namespace russian // language
 		{"Description", "Beskrywing"},
 		{"A bit information about service on domain", "Немного информации о сервисе на домене"},
 		{"Submit", "Отправить"},
-		{"Domain can't end with .b32.i2p", "Домен не может заканчиваться на .b32.i2p"},
-		{"Domain must end with .i2p", "Домен должен заканчиваться на .i2p"},
+		{"Domain can't end with .b32.i2p", "Domain kan nie eind met .b32.i2p"},
+		{"Domain must end with .i2p", "Domain moet einde met .i2p"},
 		{"Such destination is not found", "Такая точка назначения не найдена"},
 		{"", ""},
 	};
